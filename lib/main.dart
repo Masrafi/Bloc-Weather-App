@@ -1,10 +1,7 @@
 import 'package:bloc_weatherapp/bloc/weather_bloc.dart';
 import 'package:bloc_weatherapp/repository/weather_repo.dart';
-import 'package:flare_flutter/flare_actor.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-
-import 'data/weather_model.dart';
 import 'ui/search_screen.dart';
 
 void main() {

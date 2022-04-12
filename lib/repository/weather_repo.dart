@@ -1,6 +1,5 @@
 import 'package:http/http.dart' as http;
 import 'dart:convert';
-
 import '../data/weather_model.dart';
 
 class WeatherRepo {

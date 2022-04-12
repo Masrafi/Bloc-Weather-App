@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import '../data/weather_model.dart';
 
 class ShowWeather extends StatelessWidget {
